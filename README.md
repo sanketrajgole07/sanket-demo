@@ -1,4 +1,4 @@
 # sanket-demo
 first git repository
 <br>
-author - sanket
+author - Sanket Rajgole
